@@ -1,9 +1,9 @@
 #
 # This file contains configuration flags to customize your site
-##
+#
 
 # Name of your site (displayed in the header)
-name: Travis Taylor
+name: 
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
